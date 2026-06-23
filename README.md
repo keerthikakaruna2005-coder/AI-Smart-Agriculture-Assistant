@@ -63,6 +63,6 @@ The system helps farmers make better crop decisions using Artificial Intelligenc
 
 
 \## 📂 Project Structure
-
+https://ai-smart-agriculture-assistant-mqt9qlxbjpfreidktd9umf.streamlit.app/
 
 
